@@ -1,81 +1,62 @@
-קופת חולים
+# פרויקט "קופת חולים"
 
-תיאור הפרויקט:
+## תיאור הפרויקט:
 
-מערכת לניהול תורים לקופת חולים באמצעות המערכת ניתן להזמין תור לרופא
+מערכת לניהול תורים לקופת חולים, המאפשרת למשתמשים להזמין תור לרופא ולנהל את כלל התורים בתחנה.
 
-ולנהל את כלל התורים בתחנה.
+## ישויות:
 
-ישויות:
+- פציינט
+- רופא
+- תור
 
-פציינט
+## מיפוי Routes לפציינטים:
 
-רופא
+- שליפת רשימת פציינטים
+  - GET: https://maccabi4u.co.il/patients
 
-תור
+- שליפת פציינט לפי מזהה
+  - GET: https://maccabi4u.co.il/patients/1
 
-מיפוי Routs לפציינט:
+- הוספת פציינט
+  - POST: https://maccabi4u.co.il/patients
 
-שליפת רשימת פציינטים
+- עדכון פציינט
+  - PUT: https://maccabi4u.co.il/patients/1
 
-GET:https //maccabi4u.co.il/patients
+- עדכון סטטוס
+  - PUT: https://maccabi4u.co.il/patients/1/status
 
-שליפת פציינט לפי מזהה
+## מיפוי Routes לרופאים:
 
-GET:https //maccabi4u.co.il/patients/1
+- שליפת רשימת רופאים
+  - GET: https://maccabi4u.co.il/doctors
 
-הוספת פציינט
+- שליפת רופא לפי מזהה
+  - GET: https://maccabi4u.co.il/doctors/1
 
-POST: https // maccabi4u.co.il/patients
+- הוספת רופא
+  - POST: https://maccabi4u.co.il/doctors
 
-עדכון פציינט
+- עדכון רופא
+  - PUT: https://maccabi4u.co.il/doctors/1
 
-PUT: https // maccabi4u.co.il/patients/1
+- עדכון סטטוס
+  - PUT: https://maccabi4u.co.il/doctors/1/status
 
-עדכון סטטוס
+## מיפוי Routes לתורים:
 
-PUT:https // maccabi4u.co.il/patients/1/status
+- שליפת רשימת תורים
+  - GET: https://maccabi4u.co.il/appointments
 
-מיפוי Routs לרופאים:
+- שליפת תור לפי מזהה
+  - GET: https://maccabi4u.co.il/appointments/1
 
-שליפת רשימת רופאים
+- הוספת תור
+  - POST: https://maccabi4u.co.il/appointments
 
-GET:https // maccabi4u.co.il/doctors
+- עדכון תור
+  - PUT: https://maccabi4u.co.il/appointments/1
 
-שליפת רופא לפי מזהה
-
-GET:https // maccabi4u.co.il/doctors/1
-
-הוספת רופא
-
-POST: https// maccabi4u.co.il/doctors
-
-עדכון רופא
-
-PUT: https// maccabi4u.co.il/doctors/1
-
-עדכון סטטוס
-
-PUT:https//maccabi4u.co.il/doctors/1/status
-
-מיפוי Routs לתורים:
-
-שליפת רשימת תורים
-
-GET:https // maccabi4u.co.il/doctors
-
-שליפת תור לפי מזהה
-
-GET:https // maccabi4u.co.il/doctors/1
-
-הוספת תור
-
-POST: https// maccabi4u.co.il/doctors
-
-עדכון תור
-
-PUT: https// maccabi4u.co.il/doctors/1
-
-מחיקת תור
-
-DELETE: https// maccabi4u.co.il/doctors/1
+- מחיקת תור
+  - DELETE: https://maccabi4u.co.il/appointments/1
