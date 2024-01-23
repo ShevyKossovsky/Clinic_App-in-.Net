@@ -32,3 +32,15 @@ C:\Users\User\Desktop\רותי\שנה ב'\Solid\Solid.Core\obj\Debug\net6.0\Soli
 C:\Users\User\Desktop\רותי\שנה ב'\Solid\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
 C:\Users\User\Desktop\רותי\שנה ב'\Solid\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
 C:\Users\User\Desktop\רותי\שנה ב'\Solid\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\user1\Desktop\הנדסת תוכנה\שנה ב\.net Core\Clinic_App\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\user1\Desktop\הנדסת תוכנה\שנה ב\.net Core\Clinic_App\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user1\Desktop\הנדסת תוכנה\שנה ב\.net Core\Clinic_App\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user1\Desktop\הנדסת תוכנה\שנה ב\.net Core\Clinic_App\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\הנדסת תוכנה\שנה ב\.net Core\Clinic_App\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\הנדסת תוכנה\שנה ב\.net Core\Clinic_App\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\הנדסת תוכנה\שנה ב\.net Core\Clinic_App\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\הנדסת תוכנה\שנה ב\.net Core\Clinic_App\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\הנדסת תוכנה\שנה ב\.net Core\Clinic_App\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+C:\Users\user1\Desktop\הנדסת תוכנה\שנה ב\.net Core\Clinic_App\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+C:\Users\user1\Desktop\הנדסת תוכנה\שנה ב\.net Core\Clinic_App\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+C:\Users\user1\Desktop\הנדסת תוכנה\שנה ב\.net Core\Clinic_App\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll

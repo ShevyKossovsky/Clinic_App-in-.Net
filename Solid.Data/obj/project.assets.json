@@ -2066,23 +2066,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\user1\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\מקצועות 2024\\.net core\\Solid\\Solid.Data\\Solid.Data.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Desktop\\הנדסת תוכנה\\שנה ב\\.net Core\\Clinic_App\\Solid.Data\\Solid.Data.csproj",
       "projectName": "Solid.Data",
-      "projectPath": "D:\\מקצועות 2024\\.net core\\Solid\\Solid.Data\\Solid.Data.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\מקצועות 2024\\.net core\\Solid\\Solid.Data\\obj\\",
+      "projectPath": "C:\\Users\\user1\\Desktop\\הנדסת תוכנה\\שנה ב\\.net Core\\Clinic_App\\Solid.Data\\Solid.Data.csproj",
+      "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user1\\Desktop\\הנדסת תוכנה\\שנה ב\\.net Core\\Clinic_App\\Solid.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2098,8 +2098,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\מקצועות 2024\\.net core\\Solid\\Solid.Core\\Solid.Core.csproj": {
-              "projectPath": "D:\\מקצועות 2024\\.net core\\Solid\\Solid.Core\\Solid.Core.csproj"
+            "C:\\Users\\user1\\Desktop\\הנדסת תוכנה\\שנה ב\\.net Core\\Clinic_App\\Solid.Core\\Solid.Core.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\הנדסת תוכנה\\שנה ב\\.net Core\\Clinic_App\\Solid.Core\\Solid.Core.csproj"
             }
           }
         }
@@ -2145,7 +2145,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
